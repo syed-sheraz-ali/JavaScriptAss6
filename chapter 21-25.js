@@ -29,3 +29,10 @@ document.write("<br/>Index of 'l' :" + s)
 var str2 = "Pakistan"
 var a = str2.charAt(3)
 document.write("<br/> " + a)
+
+//TASK 6 
+
+var firstName1 = prompt("Enter your first name ");
+var LastName1 = prompt("Enter your last name");
+
+var C = firstName1.concat(LastName1)
