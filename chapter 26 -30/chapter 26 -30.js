@@ -71,5 +71,5 @@ var guess = +prompt("Guess the number between 1 - 10")
 if (guess === random3){
     alert("Congratulation you got the number ")
 }else {
-    alert("Sorry try again ")
+    alert("Sorry try again")
 }
